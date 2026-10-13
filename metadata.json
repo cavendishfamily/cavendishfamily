@@ -1,0 +1,6 @@
+{
+  "name": "Cavendish Family Mediation",
+  "description": "Discreet, confidential and child-focused family mediation & MIAM assessments across Suffolk, Essex, Kent and Sussex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
